@@ -15,9 +15,11 @@
         
   - [ ] [email-agent]()
   
-     * gmail
+     * [gmail-receiver](https://github.com/charlierguo/gmail):[gmail-sender](https://github.com/paulchakravarti/gmail-sender)
      
-        import gmail
+            import gmail
+            from gmail import Gmail
+            g = gmail.login(username, password)
         
   - [ ] [ui-auto](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
   
