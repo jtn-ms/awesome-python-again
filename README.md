@@ -6,7 +6,7 @@
 
 ### Auto
 
-  - [ ] [weixin](https://github.com/littlecodersh/ItChat)
+  - [ ] [wechat](https://github.com/littlecodersh/ItChat)
   
         import itchat
         itchat.auto_login()
@@ -15,7 +15,7 @@
    
   - [ ] [QQ](https://github.com/pandolia/qqbot)
   
-  - [ ] [email]()
+  - [ ] email
   
      * [gmail-receiver](https://github.com/charlierguo/gmail):[gmail-sender](https://github.com/paulchakravarti/gmail-sender)
      
