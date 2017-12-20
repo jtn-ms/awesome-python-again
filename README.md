@@ -17,9 +17,9 @@
   
         
         
-  - [ ] [ui-auto]()
+  - [ ] [ui-auto](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
   
-         import pyqutogui
+         import pyautogui
          import time
          pyautogui.position()
          while True:
