@@ -19,7 +19,12 @@
         
   - [ ] [ui-auto]()
   
-        import pyautogui
+         import pyqutogui
+         import time
+         pyautogui.position()
+         while True:
+           time.sleep(0.1)
+           pyautogui.click(15,42)
    
 ### File/Dir Processing
 
