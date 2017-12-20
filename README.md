@@ -66,7 +66,7 @@
 
 ### NLP
 
-  - [ ] [spacy](https://spacy.io/) : [git](https://github.com/explosion/spaCy)
+  - [ ] [spacy](https://spacy.io/) : [src](https://github.com/explosion/spaCy) : [models](https://github.com/explosion/spacy-models/)
   
         import spacy
         nlp = spacy.load('en')
