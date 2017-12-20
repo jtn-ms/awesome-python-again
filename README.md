@@ -30,10 +30,9 @@
             r = p.send(email(
                 content=u'<p>Hello 世界</p>',
                 subject='Hello world',
-                sender='Pi<gustav0125@outlook.com>',
-                receivers=['doe@163.com'],
-            ))
-            assert r.ok
+                sender='Pi<gustav0125@outlook.com>',
+                receivers=['doe@163.com']))
+                assert r.ok
      
      * [gmail-receiver]()
      
