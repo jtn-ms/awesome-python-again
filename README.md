@@ -8,7 +8,7 @@
   
         import itchat
         itchat.auto_login()
-        author = itchat.search_friends(nickName='田')[0]
+        author = itchat.search_friends(nickName='田')[0]
         author.send('greeting, littlecoder!')
         
 ### File/Dir Processing
