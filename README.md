@@ -73,3 +73,18 @@
         doc1 = nlp(u'the fries were gross')
         doc2 = nlp(u'worst fries ever')
         doc1.similarity(doc2)
+        
+ ### Utility
+ 
+  - [ ] [file-send-receiver](https://github.com/warner/magic-wormhole)
+   
+        $ pip install magic-wormhole
+        
+        sender$ wormhole send README.md
+              Sending 7924 byte file named 'README.md'
+              On the other computer, please run: wormhole receive
+              Wormhole code is: 7-crossover-clockwork
+        receiver$ wormhole receive
+                Enter receive wormhole code: 7-crossover-clockwork
+                Receiving file (7924 bytes) into: README.md
+                ok? (y/n): y
