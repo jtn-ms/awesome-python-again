@@ -6,7 +6,7 @@
   
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
-  - [ ] python wrapper for c [swig](https://github.com/swig/swig) : [tutorial](http://www.swig.org/tutorial.html) , [boost.python](http://www.boost.org/doc/libs/1_49_0/libs/python/doc/)
+  - [ ] python wrapper for c: [swig](https://github.com/swig/swig) + [tutorial](http://www.swig.org/tutorial.html) , [boost.python](http://www.boost.org/doc/libs/1_49_0/libs/python/doc/)
   
 ### Auto
 
