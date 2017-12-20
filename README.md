@@ -64,4 +64,12 @@
    
 ### File/Dir Processing
 
-###
+### NLP
+
+  - [ ] [spacy](https://spacy.io/) : [git](https://github.com/explosion/spaCy)
+  
+        import spacy
+        nlp = spacy.load('en')
+        doc1 = nlp(u'the fries were gross')
+        doc2 = nlp(u'worst fries ever')
+        doc1.similarity(doc2)
