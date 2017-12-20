@@ -11,6 +11,8 @@
         author = itchat.search_friends(nickName='田')[0]
         author.send('greeting, littlecoder!')
         
+   - [ ] [email-auto]()
+   
 ### File/Dir Processing
 
 ###
