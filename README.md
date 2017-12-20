@@ -15,7 +15,9 @@
         
   - [ ] [email-agent]()
   
-        
+     * gmail
+     
+        import gmail
         
   - [ ] [ui-auto](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
   
@@ -25,6 +27,10 @@
          while True:
            time.sleep(0.1)
            pyautogui.click(15,42)
+           
+  - [ ] [d]()
+  
+  - [ ] [x]()
    
 ### File/Dir Processing
 
