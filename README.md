@@ -6,14 +6,16 @@
 
 ### Auto
 
-  - [ ] [weixin-agent](https://github.com/littlecodersh/ItChat)
+  - [ ] [weixin](https://github.com/littlecodersh/ItChat)
   
         import itchat
         itchat.auto_login()
         author = itchat.search_friends(nickName='田')[0]
         author.send('greeting, littlecoder!')
-        
-  - [ ] [email-agent]()
+   
+  - [ ] [QQ](https://github.com/pandolia/qqbot)
+  
+  - [ ] [email]()
   
      * [gmail-receiver](https://github.com/charlierguo/gmail):[gmail-sender](https://github.com/paulchakravarti/gmail-sender)
      
@@ -35,7 +37,7 @@
      
      * [gmail-receiver]()
      
-  - [ ] [ui-auto](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
+  - [ ] [ui](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
   
          import pyautogui
          import time
@@ -44,9 +46,11 @@
            time.sleep(0.1)
            pyautogui.click(15,42)
            
-  - [ ] [d]()
+  - [ ] [slacker](https://github.com/os/slacker)
   
-  - [ ] [x]()
+  - [ ] [skype](https://github.com/Skype4Py/Skype4Py)
+  
+  - [ ] [Forensic:browser,skype..database analysis](https://github.com/MonroCoury/Forensic-Tools)
    
 ### File/Dir Processing
 
