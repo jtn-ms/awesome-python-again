@@ -4,7 +4,7 @@
   
   - [ ] [csv2sqlite](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py)
   
-  - [ ] [weixin-bot](https://github.com/littlecodersh/ItChat)
+  - [ ] [weixin-bot](https://github.com/littlecodersh/ItChat)
   
         import itchat
         itchat.auto_login()
