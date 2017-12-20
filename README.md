@@ -26,12 +26,12 @@
      * [mailthon](https://github.com/eugene-eeo/mailthon)
      
             from mailthon import postman, email
-            p = postman(host='smtp.gmail.com', auth=('username', 'password'))
+            p = postman(host='smtp.outlook.com', auth=('username', 'password'))
             r = p.send(email(
                 content=u'<p>Hello 世界</p>',
                 subject='Hello world',
-                sender='John <john@jon.com>',
-                receivers=['doe@jon.com'],
+                sender='Pi<gustav0125@outlook.com>',
+                receivers=['doe@163.com'],
             ))
             assert r.ok
      
