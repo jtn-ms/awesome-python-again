@@ -6,7 +6,7 @@
   
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
-  - [ ] [c++wrapper](https://github.com/swig/swig)
+  - [ ] [c++wrapper](https://github.com/swig/swig) : [tutorial](http://www.swig.org/tutorial.html)
   
 ### Auto
 
