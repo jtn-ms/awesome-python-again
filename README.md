@@ -32,7 +32,7 @@
                 subject='Hello world',
                 sender='Pi<gustav0125@outlook.com>',
                 receivers=['doe@163.com']))
-                assert r.ok
+            assert r.ok
      
      * [gmail-receiver]()
      
