@@ -51,6 +51,10 @@
   - [ ] [skype](https://github.com/Skype4Py/Skype4Py)
   
   - [ ] [chrome-db](https://github.com/MonroCoury/Forensic-Tools)
+  
+  - [ ] [Amazon]()
+  
+  - [ ] [Trading]()
    
 ### File/Dir Processing
 
