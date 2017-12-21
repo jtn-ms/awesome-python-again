@@ -109,7 +109,7 @@
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
- ### Distribution
+ ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
   - [ ] [pyinstaller](https://github.com/gustavkkk/BlackBox/blob/master/Tensor.md#distributiononly-pyinstaller-works)
   
