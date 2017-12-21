@@ -154,3 +154,8 @@
                 description = "My GUI application!",
                 options = {"build_exe": build_exe_options},
                 executables = [Executable("guifoo.py", base=base)])
+ 
+  ### GUI 
+  - [ ] [pyqt]()
+  
+  - [ ] [kivy]()
