@@ -58,9 +58,9 @@
   
   - [ ] [chrome-db](https://github.com/MonroCoury/Forensic-Tools)
   
-  - [ ] [Amazon]()
+  - [ ] [Amazon boto)](https://github.com/boto/boto)
   
-  - [ ] [Trading]()
+  - [ ] [Trading](https://github.com/quantopian/zipline)
    
 ### File/Dir Processing
 
@@ -88,3 +88,10 @@
                 Enter receive wormhole code: 7-crossover-clockwork
                 Receiving file (7924 bytes) into: README.md
                 ok? (y/n): y
+  - [ ] [check before done](https://github.com/p-e-w/maybe)
+  
+        $ pip install maybe
+        
+  - [ ] [programming-grammar-check](https://github.com/gleitz/howdoi)
+  
+        $ pip install howdoi
