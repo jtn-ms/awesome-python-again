@@ -86,7 +86,7 @@
 
  ### Utility
  
-  - [ ] [file-send-receiver](https://github.com/warner/magic-wormhole)
+  - [ ] [magic-wormhole:file-send-receiver](https://github.com/warner/magic-wormhole)
    
         $ pip install magic-wormhole
         
@@ -98,14 +98,22 @@
                 Enter receive wormhole code: 7-crossover-clockwork
                 Receiving file (7924 bytes) into: README.md
                 ok? (y/n): y
-  - [ ] [check before done](https://github.com/p-e-w/maybe)
+  - [ ] [maybe:check-before-done](https://github.com/p-e-w/maybe)
   
         $ pip install maybe
         
-  - [ ] [programming-grammar-check](https://github.com/gleitz/howdoi)
+  - [ ] [howdoi:programming-grammar-check](https://github.com/gleitz/howdoi)
   
         $ pip install howdoi
-
+        
+  - [ ] [glances:An-eye-on-your-system](https://github.com/nicolargo/glances)
+  
+        $ pip install glances
+        $ glance
+        
+  - [ ] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
+  
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
