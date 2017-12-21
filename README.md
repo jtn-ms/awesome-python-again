@@ -141,6 +141,8 @@
   
   - [ ] [moviepy:Video-Editing](http://zulko.github.io/moviepy/)
   
+  - [ ] [legit:Git-for-Humans](https://github.com/kennethreitz/legit)
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
