@@ -113,5 +113,7 @@
  
   - [ ] [pyinstaller](https://github.com/gustavkkk/BlackBox/blob/master/Tensor.md#distributiononly-pyinstaller-works)
   
+        This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
+        
         $ pyinstaller  --onefile --windowed xxx.py
         $ pyinstaller xxx.spec
