@@ -74,6 +74,12 @@
         doc2 = nlp(u'worst fries ever')
         doc1.similarity(doc2)
         
+  - [ ] [gensim](https://github.com/RaRe-Technologies/gensim)
+  
+        * [tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
+        * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
+        * [summarization](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
+        
  ### Utility
  
   - [ ] [file-send-receiver](https://github.com/warner/magic-wormhole)
