@@ -87,6 +87,8 @@
        
   - [ ] [newspaper](https://github.com/codelucas/newspaper)
 
+  - [ ] [TextBlob](https://github.com/sloria/TextBlob)
+  
  ### Utility
  
   - [x] [magic-wormhole:file-send-receiver](https://github.com/warner/magic-wormhole)
