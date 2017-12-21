@@ -111,9 +111,24 @@
  
  ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
-  - [ ] [pyinstaller](https://github.com/gustavkkk/BlackBox/blob/master/Tensor.md#distributiononly-pyinstaller-works)
+  - [ ] [pyinstaller](https://github.com/pyinstaller/pyinstaller)
   
         This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
         
         $ pyinstaller  --onefile --windowed xxx.py
         $ pyinstaller xxx.spec
+        
+  - [ ] [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze/blob/master/doc/distutils.rst)
+  
+        import sys
+        from cx_Freeze import setup, Executable
+        build_exe_options = {"packages": ["os"], "excludes": ["tkinter"]}
+        base = None
+        if sys.platform == "win32":
+            base = "Win32GUI"
+
+        setup(  name = "guifoo",
+                version = "0.1",
+                description = "My GUI application!",
+                options = {"build_exe": build_exe_options},
+                executables = [Executable("guifoo.py", base=base)])
