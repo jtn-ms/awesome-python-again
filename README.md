@@ -81,7 +81,9 @@
        * [tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
        * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
        * [summarization](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
-        
+       
+  - [ ] [newspaper](https://github.com/codelucas/newspaper)
+
  ### Utility
  
   - [ ] [file-send-receiver](https://github.com/warner/magic-wormhole)
