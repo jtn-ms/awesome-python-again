@@ -1,6 +1,6 @@
 ### Conversion
 
-  - [ ] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
+  - [x] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
   
   - [ ] [csv2sqlite](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py)
   
@@ -13,7 +13,7 @@
   
 ### Auto
 
-  - [ ] [wechat](https://github.com/littlecodersh/ItChat)
+  - [x] [wechat](https://github.com/littlecodersh/ItChat)
   
         import itchat
         itchat.auto_login()
@@ -22,7 +22,7 @@
    
   - [ ] [QQ](https://github.com/pandolia/qqbot)
   
-  - [ ] email
+  - [x] email
   
      * [gmail-receiver](https://github.com/charlierguo/gmail):[gmail-sender](https://github.com/paulchakravarti/gmail-sender)
      
@@ -41,9 +41,7 @@
                 receivers=['doe@163.com']))
             assert r.ok
      
-     * [gmail-receiver]()
-     
-  - [ ] [ui](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
+  - [x] [ui](https://gfycat.com/PointlessSimplisticAmericanquarterhorse)
   
          import pyautogui
          import time
