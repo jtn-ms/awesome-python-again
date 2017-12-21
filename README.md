@@ -22,6 +22,8 @@
    
   - [ ] [QQ](https://github.com/pandolia/qqbot)
   
+  - [ ] [twitter](https://github.com/tweepy/tweepy)
+  
   - [x] email
   
      * [gmail-receiver](https://github.com/charlierguo/gmail):[gmail-sender](https://github.com/paulchakravarti/gmail-sender)
