@@ -138,6 +138,8 @@
   
   - [ ] [BossSensor:Hide-screen-when-boss-is-approaching](https://github.com/Hironsan/BossSensor)
   
+  - [ ] [moviepy:Video-Editing](http://zulko.github.io/moviepy/)
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
