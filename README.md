@@ -128,6 +128,7 @@
        
   - [ ] [mackup:Back-Up-Application-Setting-Into-DropBox](https://github.com/lra/mackup)
   
+  - [ ] [mkdocs:Make-Project-Docs](https://github.com/mkdocs/mkdocs)
   
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
