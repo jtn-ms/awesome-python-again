@@ -238,7 +238,7 @@
   
   ### Prediction
   
-  - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+  - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
   
         import pandas as pd
         import numpy as np
