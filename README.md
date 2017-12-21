@@ -76,7 +76,7 @@
         doc2 = nlp(u'worst fries ever')
         doc1.similarity(doc2)
         
-  - [ ] [gensim](https://github.com/RaRe-Technologies/gensim)
+  - [x] [gensim](https://github.com/RaRe-Technologies/gensim)
   
        * [tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
        * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
@@ -86,7 +86,7 @@
 
  ### Utility
  
-  - [ ] [magic-wormhole:file-send-receiver](https://github.com/warner/magic-wormhole)
+  - [x] [magic-wormhole:file-send-receiver](https://github.com/warner/magic-wormhole)
    
         $ pip install magic-wormhole
         
@@ -111,7 +111,7 @@
         $ pip install glances
         $ glance
         
-  - [ ] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
+  - [x] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
   
   
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
@@ -119,14 +119,14 @@
  
  ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
-  - [ ] [pyinstaller](https://github.com/pyinstaller/pyinstaller)
+  - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller)
   
         This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
         
         $ pyinstaller  --onefile --windowed xxx.py
         $ pyinstaller xxx.spec
         
-  - [ ] [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze/blob/master/doc/distutils.rst)
+  - [x] [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze/blob/master/doc/distutils.rst)
   
         import sys
         from cx_Freeze import setup, Executable
