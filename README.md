@@ -207,3 +207,8 @@
   ### 3D
   
   - [ ] [SpaceshipGenerator:with-Random-Seed](https://github.com/a1studmuffin/SpaceshipGenerator)
+  
+  
+  ### Computer Vision
+  
+  - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
