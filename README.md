@@ -111,7 +111,7 @@
  
  ### Distribution
  
-  - [ ] [pyinstaller](https://pyinstaller.readthedocs.io/en/latest/usage.html)
+  - [ ] [pyinstaller](https://github.com/gustavkkk/BlackBox/blob/master/Tensor.md#distributiononly-pyinstaller-works)
   
         $ pyinstaller  --onefile --windowed xxx.py
         $ pyinstaller xxx.spec
