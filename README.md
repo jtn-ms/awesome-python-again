@@ -113,6 +113,7 @@
         
   - [x] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
   
+  - [ ] [fabric:Shell-Command-On-Multi-Servers-Same-Time](https://github.com/fabric/fabric)
   
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
