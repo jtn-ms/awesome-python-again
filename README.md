@@ -166,3 +166,7 @@
   - [ ] ChatBot
     
       * [ChatterBot](https://github.com/gunthercox/ChatterBot)
+      
+  - [ ] WeChat
+      
+      * [WeixinBot](https://github.com/Urinx/WeixinBot)
