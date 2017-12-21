@@ -115,6 +115,19 @@
   
   - [ ] [fabric:Shell-Command-On-Multi-Servers-Same-Time](https://github.com/fabric/fabric)
   
+  - [ ] [fire:Automatically-generating-CLIs-from-any-Python-Object](https://github.com/google/python-fire)
+  
+        import fire
+        class Calculator(object):
+          """A simple calculator class."""
+          def double(self, number):
+            return 2 * number
+        if __name__ == '__main__':
+          fire.Fire(Calculator)
+        
+        $ python calculator.py double 10  # 20
+        $ python calculator.py double --number=15  # 30
+        
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
