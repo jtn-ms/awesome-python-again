@@ -145,6 +145,8 @@
   
   - [ ] [legit:Git-for-Humans](https://github.com/kennethreitz/legit)
   
+  - [ ] [wttr:weather](https://github.com/chubin/wttr.in)
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
