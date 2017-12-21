@@ -153,6 +153,8 @@
   
   - [ ] [wttr:weather](https://github.com/chubin/wttr.in)
   
+  - [ ] [voltron:reversing-tool](https://github.com/snare/voltron)
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
