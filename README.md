@@ -62,8 +62,7 @@
       * [boto](https://github.com/boto/boto)
       * [aws-cli](https://github.com/aws/aws-cli)
   
-  - [ ] [Trading](https://github.com/quantopian/zipline)
-  
+  - [ ] [Trading](https://github.com/quantopian/zipline) : [tushare:historical-data-from-chinese-stock](https://github.com/waditu/tushare)
 ### Data & Time
 
   - [ ] [arrow](https://github.com/crsmithdev/arrow)
