@@ -11,6 +11,8 @@
       * [swig](https://github.com/swig/swig)[tutorial](http://www.swig.org/tutorial.html)
       * [boost.python](http://www.boost.org/doc/libs/1_49_0/libs/python/doc/)
   
+  - [ ] [python2android](https://github.com/kivy/python-for-android)
+  
 ### Auto
 
   - [x] [wechat](https://github.com/littlecodersh/ItChat)
