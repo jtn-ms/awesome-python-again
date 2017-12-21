@@ -224,3 +224,17 @@
   ### Computer Vision
   
   - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
+  
+  ### Prediction
+  
+  - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+  
+        import pandas as pd
+        import numpy as np
+        from fbprophet import Prophet
+        df = pd.read_csv('../examples/example_wp_peyton_manning.csv')
+        df['y'] = np.log(df['y'])
+        df.head()
+        m = Prophet()
+        m.fit(df)
+
