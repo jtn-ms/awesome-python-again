@@ -109,3 +109,9 @@
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
+ ### Distribution
+ 
+  - [ ] [pyinstaller](https://pyinstaller.readthedocs.io/en/latest/usage.html)
+  
+        $ pyinstaller  --onefile --windowed xxx.py
+        $ pyinstaller xxx.spec
