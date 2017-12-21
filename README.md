@@ -105,3 +105,7 @@
   - [ ] [programming-grammar-check](https://github.com/gleitz/howdoi)
   
         $ pip install howdoi
+
+ ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
+ 
+ 
