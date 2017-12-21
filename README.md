@@ -58,7 +58,9 @@
   
   - [ ] [chrome-db](https://github.com/MonroCoury/Forensic-Tools)
   
-  - [ ] [Amazon boto)](https://github.com/boto/boto)
+  - [ ] Amazon
+      * [boto](https://github.com/boto/boto)
+      * [aws-cli](https://github.com/aws/aws-cli)
   
   - [ ] [Trading](https://github.com/quantopian/zipline)
    
