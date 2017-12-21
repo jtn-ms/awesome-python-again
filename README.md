@@ -177,6 +177,8 @@
       
         "Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python."
           —  Adam Atlas
+          
+        $ pip install web.py
         
         import web
         urls = ( '/(.*)', 'hello')
