@@ -170,7 +170,14 @@
   - [ ] WeChat
       
       * [WeixinBot](https://github.com/Urinx/WeixinBot)
+
+  ### Web
+  
+  - [ ] [webpy](https://github.com/webpy/webpy)
       
+        "Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python."
+          —  Adam Atlas
+          
   ### Django-Case
   
   - [ ] [NewsBlur:Read-News-From-Variable-Sources](https://github.com/samuelclay/NewsBlur)
