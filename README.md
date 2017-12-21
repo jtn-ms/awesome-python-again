@@ -13,6 +13,8 @@
   
   - [ ] [python2android](https://github.com/kivy/python-for-android)
   
+  - [ ] [shell-command-in-python](https://github.com/amoffat/sh)
+  
 ### Auto
 
   - [x] [wechat](https://github.com/littlecodersh/ItChat)
