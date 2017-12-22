@@ -13,7 +13,8 @@
       
   - [ ] [one and only ipc between programming languages](http://zguide.zeromq.org/)
   
-      * [zeromq:one and only ipc between python and c++](https://github.com/booksbyus/zguide/tree/master/examples)
+      * [zeromq:one and only ipc between python and c++](https://github.com/zeromq/pyzmq)
+      * [zguide](https://github.com/booksbyus/zguide/tree/master/examples)
 
 ### Conversion
 
