@@ -13,7 +13,7 @@
       
   - [ ] [one and only ipc between programming languages](http://zguide.zeromq.org/)
       
-      keyword :  wrapper,binding,calling,integrating,python,c++
+      keyword :  wrapper,[extending](https://docs.python.org/3/extending/extending.html),binding,calling,[integrating](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages),[embedding](https://docs.python.org/2/extending/embedding.html),python,c++
       
       * [zeromq:one and only ipc between python and c++](https://github.com/zeromq/pyzmq)
       * [zguide](https://github.com/booksbyus/zguide/tree/master/examples)
