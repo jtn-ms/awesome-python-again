@@ -4,7 +4,7 @@
 
 ### [Binding](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages)
 
-  - [ ] [python binding:c++2python](https://stackoverflow.com/questions/13990317/generate-python-bindings-what-methods-programs-to-use)
+  - [ ] [python binding : c2python](https://stackoverflow.com/questions/13990317/generate-python-bindings-what-methods-programs-to-use)
   
        keyword :  wrapper,[extending](https://docs.python.org/3/extending/extending.html),binding,calling,[integrating](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages),[embedding](https://docs.python.org/2/extending/embedding.html),python,c++ 
         
