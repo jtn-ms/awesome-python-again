@@ -11,7 +11,9 @@
       * [boost.python](http://www.boost.org/doc/libs/1_49_0/libs/python/doc/)
       * [cython]()
       
-  - [ ] [one and only ipc between python and c++](http://zguide.zeromq.org/)
+  - [ ] [one and only ipc between programming languages](http://zguide.zeromq.org/)
+  
+      * [zeromq:one and only ipc between python and c++](https://github.com/booksbyus/zguide/tree/master/examples)
 
 ### Conversion
 
