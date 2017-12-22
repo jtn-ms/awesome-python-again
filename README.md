@@ -6,6 +6,8 @@
 
   - [ ] [python binding:c++2python](https://stackoverflow.com/questions/13990317/generate-python-bindings-what-methods-programs-to-use)
   
+       keyword :  wrapper,[extending](https://docs.python.org/3/extending/extending.html),binding,calling,[integrating](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages),[embedding](https://docs.python.org/2/extending/embedding.html),python,c++ 
+        
       * [ctypes](https://docs.python.org/2/library/ctypes.html)
       * [swig](https://github.com/swig/swig)[tutorial](http://www.swig.org/tutorial.html)
       * [boost.python](http://www.boost.org/doc/libs/1_49_0/libs/python/doc/)
@@ -13,14 +15,13 @@
       
   - [ ] [one and only ipc between programming languages](http://zguide.zeromq.org/)
       
-      keyword :  wrapper,[extending](https://docs.python.org/3/extending/extending.html),binding,calling,[integrating](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages),[embedding](https://docs.python.org/2/extending/embedding.html),python,c++
-      
       * [zeromq:one and only ipc between python and c++](https://github.com/zeromq/pyzmq)
       * [zguide](https://github.com/booksbyus/zguide/tree/master/examples)
       * [libzmq](https://github.com/zeromq/libzmq)
       
       * [](https://github.com/google/clif)
-
+  - [x] [embedding-python-in-c++](https://github.com/gustavkkk/embedding-python-in-c)
+  
 ### Conversion
 
   - [x] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
