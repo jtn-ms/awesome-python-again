@@ -176,11 +176,14 @@
  
  ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
-  - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller)
+  - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller) : [how2exclude](https://stackoverflow.com/questions/17034434/how-to-remove-exclude-modules-and-files-from-pyinstaller)
   
         This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
         
         $ pyinstaller  --onefile --windowed xxx.py
+        
+        Analysis(..., excludes=['_gtkagg', '_tkagg', 'bsddb', 'curses', 'pywin.debugger', 'pywin.debugger.dbgcon', 'pywin.dialogs', 'tcl', 'Tkconstants', 'Tkinter', 'PyQt5','zmq'], ..)
+        
         $ pyinstaller xxx.spec
         
   - [x] [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze/blob/master/doc/distutils.rst)
