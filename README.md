@@ -181,8 +181,18 @@
         This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
         
         $ pyinstaller  --onefile --windowed xxx.py
-        
+        # the following code help decreasing pkg size
         Analysis(..., excludes=['_gtkagg', '_tkagg', 'bsddb', 'curses', 'pywin.debugger', 'pywin.debugger.dbgcon', 'pywin.dialogs', 'tcl', 'Tkconstants', 'Tkinter', 'PyQt5','zmq'], ..)
+        # the following code after Analyssi(...) help pandas works while using pyinstaller
+        # it's better to use pip pandas than conda pandas for pkg size. conda pandas needs more than 400MB extra weight.
+        def get_pandas_path():
+        import pandas
+        pandas_path = pandas.__path__[0]
+        return pandas_path
+
+        dict_tree = Tree(get_pandas_path(), prefix='pandas', excludes=["*.pyc"])
+        a.datas += dict_tree
+        a.binaries = filter(lambda x: 'pandas' not in x[0], a.binaries)
         
         $ pyinstaller xxx.spec
         
