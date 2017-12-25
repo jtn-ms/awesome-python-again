@@ -224,6 +224,7 @@
   
   - [ ] [Use-Hatch](https://github.com/ofek/hatch)
   
+  - [ ] [setup.py](https://github.com/kennethreitz/setup.py)
   ### Dependency-Check
   
   - [ ] [pipdeptree](https://github.com/naiquevin/pipdeptree)
