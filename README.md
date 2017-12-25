@@ -224,10 +224,11 @@
   
   - [ ] [Use-Hatch](https://github.com/ofek/hatch)
   
-  - [ ] [setup.py](https://github.com/kennethreitz/setup.py)
-  ### Dependency-Check
+  - [ ] [setup.py](https://github.com/kennethreitz/setup.py)
   
-  - [ ] [pipdeptree](https://github.com/naiquevin/pipdeptree)
+  ### Dependency-Check
+  
+  - [ ] [pipdeptree](https://github.com/naiquevin/pipdeptree)
   
         $ pipdeptree
         $ pipdeptree --reverse --packages itsdangerous,gnureadline
