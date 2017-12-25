@@ -213,6 +213,11 @@
                 options = {"build_exe": build_exe_options},
                 executables = [Executable("guifoo.py", base=base)])
  
+  ### [Packaging and Distribution](https://github.com/storborg/python-packaging/blob/master/index.rst) : [pypa](https://github.com/pypa/python-packaging-user-guide)
+  
+        
+  
+  
   ### GUI 
   - [ ] [pyqt]()
   
