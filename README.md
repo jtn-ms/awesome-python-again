@@ -23,6 +23,7 @@
       
   - [x] [python-in-c](https://github.com/gustavkkk/embedding-python-in-c)
   
+  - [ ] [.Net in python](https://github.com/pythonnet/pythonnet)
 ### Conversion
 
   - [x] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
