@@ -27,7 +27,9 @@
 
   - [x] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
   
-  - [ ] [csv2sqlite](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py)
+  - [ ] [xlsx2csv](https://github.com/dilshod/xlsx2csv)
+  
+  - [ ] [csv2sqlite](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py) : [](https://github.com/simonw/csvs-to-sqlite)
   
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
