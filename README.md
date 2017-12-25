@@ -26,6 +26,7 @@
   - [ ] [.Net in python](https://github.com/pythonnet/pythonnet)
   
   - [ ] [hdf5 in python](https://github.com/h5py/h5py)
+  
 ### Conversion
 
   - [x] [chinese2Integer](https://github.com/gustavkkk/python-small-module/blob/master/chn2int.py)
@@ -91,9 +92,10 @@
       * [boto](https://github.com/boto/boto)
       * [aws-cli](https://github.com/aws/aws-cli)
   
-  - [ ] [Trading](https://github.com/quantopian/zipline) : [tushare:historical-data-from-chinese-stock](https://github.com/waditu/tushare)
+  - [ ] [Trading](https://github.com/quantopian/zipline) : [tushare:historical-data-from-chinese-stock](https://github.com/waditu/tushare)
   
-  - [ ] [弹幕](https://github.com/littlecodersh/danmu)
+  - [ ] [弹幕](https://github.com/littlecodersh/danmu)
+  
 ### Data & Time
 
   - [ ] [arrow](https://github.com/crsmithdev/arrow)
