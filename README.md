@@ -92,6 +92,8 @@
       * [aws-cli](https://github.com/aws/aws-cli)
   
   - [ ] [Trading](https://github.com/quantopian/zipline) : [tushare:historical-data-from-chinese-stock](https://github.com/waditu/tushare)
+  
+  - [ ] [弹幕](https://github.com/littlecodersh/danmu)
 ### Data & Time
 
   - [ ] [arrow](https://github.com/crsmithdev/arrow)
