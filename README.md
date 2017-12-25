@@ -102,25 +102,6 @@
   
 ### File/Dir Processing
 
-### NLP
-
-  - [ ] [spacy](https://spacy.io/) : [src](https://github.com/explosion/spaCy) : [models](https://github.com/explosion/spacy-models/)
-  
-        import spacy
-        nlp = spacy.load('en')
-        doc1 = nlp(u'the fries were gross')
-        doc2 = nlp(u'worst fries ever')
-        doc1.similarity(doc2)
-        
-  - [x] [gensim](https://github.com/RaRe-Technologies/gensim)
-  
-       * [tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
-       * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
-       * [summarization](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
-       
-  - [ ] [newspaper](https://github.com/codelucas/newspaper)
-
-  - [ ] [TextBlob](https://github.com/sloria/TextBlob)
   
  ### Utility
  
@@ -347,3 +328,30 @@
    ### Recommendation
    
    - [ ] [crab](https://github.com/muricoca/crab)
+   
+   
+# Machine Learning
+
+### DataSet
+        
+   - [ ] [skdata](https://github.com/jaberg/skdata/tree/master/skdata)
+   
+### NLP
+
+  - [ ] [spacy](https://spacy.io/) : [src](https://github.com/explosion/spaCy) : [models](https://github.com/explosion/spacy-models/)
+  
+        import spacy
+        nlp = spacy.load('en')
+        doc1 = nlp(u'the fries were gross')
+        doc2 = nlp(u'worst fries ever')
+        doc1.similarity(doc2)
+        
+  - [x] [gensim](https://github.com/RaRe-Technologies/gensim)
+  
+       * [tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
+       * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
+       * [summarization](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
+       
+  - [ ] [newspaper](https://github.com/codelucas/newspaper)
+
+  - [ ] [TextBlob](https://github.com/sloria/TextBlob)
