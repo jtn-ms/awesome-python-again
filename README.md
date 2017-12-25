@@ -176,6 +176,8 @@
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
+ ### [Create-Project](https://github.com/ofek/hatch)
+ 
  ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
   - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller) : [how2exclude](https://stackoverflow.com/questions/17034434/how-to-remove-exclude-modules-and-files-from-pyinstaller) : [how-to-decrease-exe-size: pandas-conda2pip](https://stackoverflow.com/questions/43886822/pyinstaller-with-pandas-creates-over-500-mb-exe) : [pyqt5-exe-making](https://winterj.me/pyinstaller/)
@@ -215,7 +217,7 @@
  
   ### [Packaging and Distribution](https://github.com/storborg/python-packaging/blob/master/index.rst) : [pypa](https://github.com/pypa/python-packaging-user-guide)
   
-        
+  - [ ] [Use-Hatch](https://github.com/ofek/hatch)
   
   
   ### GUI 
