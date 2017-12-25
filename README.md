@@ -289,8 +289,8 @@
   
    [python-guide](https://github.com/kennethreitz/python-guide)
    
-  ### Fake Data Generator
-   
+  ### Fake Data Generator
+  
    [faker](https://github.com/joke2k/faker)
    
       from faker import Faker
