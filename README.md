@@ -268,3 +268,6 @@
         m = Prophet()
         m.fit(df)
 
+  ### Guide
+  
+   [python-guide](https://github.com/kennethreitz/python-guide)
