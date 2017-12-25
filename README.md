@@ -335,7 +335,10 @@
 ### DataSet
         
    - [ ] [skdata](https://github.com/jaberg/skdata/tree/master/skdata)
-   
+
+### Overview
+
+   - [ ] [off99555](https://github.com/off99555/machine-learning-curriculum)
 ### NLP
 
   - [ ] [spacy](https://spacy.io/) : [src](https://github.com/explosion/spaCy) : [models](https://github.com/explosion/spacy-models/)
