@@ -311,3 +311,17 @@
         # Ea quaerat et quisquam. Deleniti sunt quam. Adipisci consequatur id in occaecati.
         # Et sint et. Ut ducimus quod nemo ab voluptatum.
       
+  ### Cryptography
+
+  - [x] [cryptography](https://github.com/pyca/cryptography)
+  
+        from cryptography.fernet import Fernet
+        # Put this somewhere safe!
+        key = Fernet.generate_key()
+        f = Fernet(key)
+        token = f.encrypt(b"A really secret message. Not for prying eyes.")
+        token
+        '...'
+        f.decrypt(token)
+        'A really secret message. Not for prying eyes.'
+  
