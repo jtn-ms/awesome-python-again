@@ -221,6 +221,14 @@
   
   - [ ] [Use-Hatch](https://github.com/ofek/hatch)
   
+  ### Dependency-Check
+  
+  - [ ] [pipdeptree](https://github.com/naiquevin/pipdeptree)
+  
+        $ pipdeptree
+        $ pipdeptree --reverse --packages itsdangerous,gnureadline
+        #$ pip freeze
+        #$ conda env list
   
   ### GUI 
   - [ ] [pyqt]()
