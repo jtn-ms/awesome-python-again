@@ -39,6 +39,8 @@
   
   - [x] [xls2sqlite](https://github.com/bermau/xls2sqlite)
   
+  - [ ] [sqlite2xls](https://github.com/flow-phys/sqlite2xls/blob/master/sqlite2xls)
+  
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
   - [ ] [python2android](https://github.com/kivy/python-for-android)
