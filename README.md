@@ -314,7 +314,25 @@
         # Aut molestias et maxime. Fugit autem facilis quos vero. Eius quibusdam possimus est.
         # Ea quaerat et quisquam. Deleniti sunt quam. Adipisci consequatur id in occaecati.
         # Et sint et. Ut ducimus quod nemo ab voluptatum.
-      
+   
+  - [ ] [mimesis](https://github.com/lk-geimfari/mimesis)
+  
+        from mimesis import Personal
+        from mimesis.enums import Gender
+        person = Personal('en')
+        person.full_name(gender=Gender.FEMALE)
+        person.occupation()
+        templates = ['U_d', 'U-d', 'l_d', 'l-d']
+        for template in templates:
+          person.username(template=template)
+        Personal('de').full_name()
+        from mimesis import Generic
+        from mimesis.enums import TLDType
+        g = Generic('es')
+        g.datetime.month()
+        g.food.fruit()
+        g.internet.top_level_domain(TLDType.GEOTLD)
+        
   ### Cryptography
 
   - [x] [cryptography](https://github.com/pyca/cryptography)
