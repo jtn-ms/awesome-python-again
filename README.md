@@ -37,6 +37,8 @@
   
   - [ ] [xls2db](https://github.com/jfhbrook/xls2db)
   
+  - [x] [xls2sqlite](https://github.com/bermau/xls2sqlite)
+  
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
   - [ ] [python2android](https://github.com/kivy/python-for-android)
