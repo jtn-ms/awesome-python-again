@@ -35,6 +35,8 @@
   
   - [ ] [csv2sqlite](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py) : [](https://github.com/simonw/csvs-to-sqlite)
   
+  - [ ] [xls2db](https://github.com/jfhbrook/xls2db)
+  
   - [ ] [cpp2python](https://github.com/andreikop/cpp2python)
   
   - [ ] [python2android](https://github.com/kivy/python-for-android)
