@@ -98,7 +98,11 @@
   
 ### Data & Time
 
+  - [ ] [pendulum](https://github.com/sdispater/pendulum)
+  
   - [ ] [arrow](https://github.com/crsmithdev/arrow)
+  
+  - [ ] [maya](https://github.com/kennethreitz/maya)
   
 ### File/Dir Processing
 
