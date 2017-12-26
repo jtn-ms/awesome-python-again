@@ -111,7 +111,14 @@
   - [ ] [maya](https://github.com/kennethreitz/maya)
   
 ### File/Dir Processing
-
+  
+  - [ ] files with specific pattern in a folder
+  
+        glob.glob(subpath_+'\\*'+pattern+'*.j*pg')
+  
+  - [x] files including one-sub-dir or not
+  
+        glob.iglob(subpath_+'\\**\\' + '*'+category+'*.j*pg', recursive=True)
   
  ### Utility
  
