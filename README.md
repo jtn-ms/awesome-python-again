@@ -185,7 +185,7 @@
  
  ### [Distribution](https://stackoverflow.com/questions/14165398/a-good-python-to-exe-compiler)
  
-  - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller) : [how2exclude](https://stackoverflow.com/questions/17034434/how-to-remove-exclude-modules-and-files-from-pyinstaller) : [how-to-decrease-exe-size: pandas-conda2pip](https://stackoverflow.com/questions/43886822/pyinstaller-with-pandas-creates-over-500-mb-exe) : [pyqt5-exe-making](https://winterj.me/pyinstaller/)
+  - [x] [pyinstaller](https://github.com/pyinstaller/pyinstaller) : [how2exclude](https://stackoverflow.com/questions/17034434/how-to-remove-exclude-modules-and-files-from-pyinstaller) : [how-to-decrease-exe-size: pandas-conda2pip](https://stackoverflow.com/questions/43886822/pyinstaller-with-pandas-creates-over-500-mb-exe) : [pyqt5-exe-making](https://winterj.me/pyinstaller/) : [how-to-exclude](https://github.com/pyinstaller/pyinstaller/issues/1239)
   
         This is the one and only choice for tensorflow-based application distribution and works great. But, you have to install python using brew not anaconda for Mac.
         
