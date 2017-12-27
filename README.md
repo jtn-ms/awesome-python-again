@@ -286,11 +286,6 @@
   
   - [ ] [SpaceshipGenerator:with-Random-Seed](https://github.com/a1studmuffin/SpaceshipGenerator)
   
-  
-  ### Computer Vision
-  
-  - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
-  
   ### Prediction
   
   - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
@@ -395,3 +390,13 @@
   - [ ] [newspaper](https://github.com/codelucas/newspaper)
 
   - [ ] [TextBlob](https://github.com/sloria/TextBlob)
+  
+  
+# Computer Vision
+### Super Resolution
+  - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
+
+# Office
+### Excel
+  
+  - [ ] [xlrd](https://github.com/python-excel/xlrd)
