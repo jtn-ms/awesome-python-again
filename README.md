@@ -90,6 +90,8 @@
            
   - [ ] [slacker](https://github.com/os/slacker)
   
+      * [](https://github.com/slackapi/python-slackclient)
+      
   - [ ] [skype](https://github.com/Skype4Py/Skype4Py)
   
   - [ ] [chrome-db](https://github.com/MonroCoury/Forensic-Tools)
