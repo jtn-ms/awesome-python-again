@@ -251,54 +251,10 @@
       
       * [WeixinBot](https://github.com/Urinx/WeixinBot)
 
-  ### Web
-  
-  - [ ] [wsgi](http://wsgi.readthedocs.io/en/latest/frameworks.html）
-  
-  - [ ] [webpy](https://github.com/webpy/webpy)
-      
-        "Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python."
-          —  Adam Atlas
-          
-        $ pip install web.py
-        
-        import web
-        urls = ( '/(.*)', 'hello')
-        app = web.application(urls, globals())
-        class hello:  
-          def GET(self, name):
-            if not name: 
-              name = 'World'
-            return 'Hello, ' + name + '!'
-        if __name__ == "__main__":
-          app.run()
-          
-  - [ ] [falcon](https://github.com/falconry/falcon)
-    
-  - [ ] [aiohttp:Client/Server](https://github.com/aio-libs/aiohttp)
-  
-  ### Django-Case
-  
-  - [ ] [NewsBlur:Read-News-From-Variable-Sources](https://github.com/samuelclay/NewsBlur)
-  
-  
   ### 3D
   
   - [ ] [SpaceshipGenerator:with-Random-Seed](https://github.com/a1studmuffin/SpaceshipGenerator)
   
-  ### Prediction
-  
-  - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
-  
-        import pandas as pd
-        import numpy as np
-        from fbprophet import Prophet
-        df = pd.read_csv('../examples/example_wp_peyton_manning.csv')
-        df['y'] = np.log(df['y'])
-        df.head()
-        m = Prophet()
-        m.fit(df)
-
   ### Guide
   
    [python-guide](https://github.com/kennethreitz/python-guide)
@@ -363,7 +319,42 @@
    
    - [ ] [crab](https://github.com/muricoca/crab)
    
-   
+
+# Web
+  
+### Framework
+  - [ ] [wsgi](http://wsgi.readthedocs.io/en/latest/frameworks.html）
+  
+  - [ ] [webpy](https://github.com/webpy/webpy)
+      
+        "Django lets you write web apps in Django. TurboGears lets you write web apps in TurboGears. Web.py lets you write web apps in Python."
+          —  Adam Atlas
+          
+        $ pip install web.py
+        
+        import web
+        urls = ( '/(.*)', 'hello')
+        app = web.application(urls, globals())
+        class hello:  
+          def GET(self, name):
+            if not name: 
+              name = 'World'
+            return 'Hello, ' + name + '!'
+        if __name__ == "__main__":
+          app.run()
+          
+  - [ ] [falcon](https://github.com/falconry/falcon)
+    
+  - [ ] [aiohttp:Client/Server](https://github.com/aio-libs/aiohttp)
+  
+  ### Django-Case
+  
+  - [ ] [NewsBlur:Read-News-From-Variable-Sources](https://github.com/samuelclay/NewsBlur)
+  
+  ### Password
+  
+  - [ ] [evilpass-strength-check](https://github.com/SirCmpwn/evilpass)
+  
 # Machine Learning
 
 ### DataSet
@@ -396,7 +387,20 @@
   - [ ] [translate.py](https://bitbucket.org/frank0125/biddingdocument/src/8f034d22a750c5e08b593d79df7808fcf1f030f9/processing/trans.py?at=master&fileviewer=file-view-default)
   
   - [ ] [summarize](https://github.com/miso-belica/sumy)
+
+  ### Prediction
   
+  - [ ] [prophet](https://github.com/facebook/prophet) : [Quick-Start](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
+  
+        import pandas as pd
+        import numpy as np
+        from fbprophet import Prophet
+        df = pd.read_csv('../examples/example_wp_peyton_manning.csv')
+        df['y'] = np.log(df['y'])
+        df.head()
+        m = Prophet()
+        m.fit(df)
+        
 # Computer Vision
 ### Super Resolution
   - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
