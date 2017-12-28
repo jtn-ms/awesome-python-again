@@ -182,6 +182,9 @@
   
   - [ ] [webkit2png](https://github.com/paulhammond/webkit2png)
   
+        $ pip install webkit2png
+        webkit2png http://www.google.com/
+      
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
