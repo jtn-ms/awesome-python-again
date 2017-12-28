@@ -395,6 +395,8 @@
   
   - [ ] [translate.py](https://bitbucket.org/frank0125/biddingdocument/src/8f034d22a750c5e08b593d79df7808fcf1f030f9/processing/trans.py?at=master&fileviewer=file-view-default)
   
+  - [ ] [summarize](https://github.com/miso-belica/sumy)
+  
 # Computer Vision
 ### Super Resolution
   - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
