@@ -440,3 +440,5 @@
 ### Excel
   
   - [ ] [xlrd](https://github.com/python-excel/xlrd)
+  
+  - [ ] [XlsxWriter](https://github.com/jmcnamara/XlsxWriter)
