@@ -350,10 +350,12 @@
   ### Django-Case
   
   - [ ] [NewsBlur:Read-News-From-Variable-Sources](https://github.com/samuelclay/NewsBlur)
+ 
+  ### Utility
   
-  ### Password
+  - [ ] [password-strength-check](https://github.com/SirCmpwn/evilpass)
   
-  - [ ] [evilpass-strength-check](https://github.com/SirCmpwn/evilpass)
+  - [ ] [qrcode](https://github.com/lincolnloop/python-qrcode)
   
 # Machine Learning
 
