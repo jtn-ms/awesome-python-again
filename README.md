@@ -336,6 +336,8 @@
   
   - [ ] [d3py](https://github.com/mikedewar/d3py)
   
+  - [ ] [prettyplotlib](https://github.com/olgabot/prettyplotlib)
+  
 # Web
   
 ### Framework
