@@ -332,6 +332,8 @@
 # Data Science
   ### Data Visualization
   
+  - [ ] [d3-Gallery](https://github.com/d3/d3/wiki/Gallery)
+  
   - [ ] [altair](https://github.com/altair-viz/altair)
   
   - [ ] [d3py](https://github.com/mikedewar/d3py)
