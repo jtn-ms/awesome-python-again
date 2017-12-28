@@ -315,11 +315,11 @@
         f.decrypt(token)
         'A really secret message. Not for prying eyes.'
   
-   ### Recommendation
-   
-   - [ ] [crab](https://github.com/muricoca/crab)
-   
 
+  ### Debug
+  
+  - [ ] [check-memory-usage-python-code-per-line](https://github.com/pythonprofilers/memory_profiler)
+  
 # Web
   
 ### Framework
@@ -402,6 +402,11 @@
         df.head()
         m = Prophet()
         m.fit(df)
+        
+  ### Recommendation
+   
+   - [ ] [crab](https://github.com/muricoca/crab)
+   
         
 # Computer Vision
 ### Super Resolution
