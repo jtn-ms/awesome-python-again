@@ -366,6 +366,8 @@
   ### Django-Case
   
   - [ ] [NewsBlur:Read-News-From-Variable-Sources](https://github.com/samuelclay/NewsBlur)
+  
+  - [ ] [django-imagekit](https://github.com/matthewwithanm/django-imagekit)
  
   ### Utility
   
