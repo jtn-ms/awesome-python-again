@@ -371,6 +371,10 @@
   
   - [ ] [django-imagekit](https://github.com/matthewwithanm/django-imagekit)
  
+  ### Flask-Case
+  
+  - [ ] [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)
+  
   ### Utility
   
   - [ ] [password-strength-check](https://github.com/SirCmpwn/evilpass)
