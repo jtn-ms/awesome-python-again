@@ -342,7 +342,9 @@
         g.datetime.month()
         g.food.fruit()
         g.internet.top_level_domain(TLDType.GEOTLD)
-        
+ 
+  - [ ] [gen_db.py](https://bitbucket.org/frank0125/biddingdocument/src/8f034d22a750c5e08b593d79df7808fcf1f030f9/processing/gen_db.py?at=master&fileviewer=file-view-default)
+  
   ### Cryptography
 
   - [x] [cryptography](https://github.com/pyca/cryptography)
@@ -391,6 +393,7 @@
 
   - [ ] [TextBlob](https://github.com/sloria/TextBlob)
   
+  - [ ] [translate.py](https://bitbucket.org/frank0125/biddingdocument/src/8f034d22a750c5e08b593d79df7808fcf1f030f9/processing/trans.py?at=master&fileviewer=file-view-default)
   
 # Computer Vision
 ### Super Resolution
