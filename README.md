@@ -324,6 +324,13 @@
   ### Debug
   
   - [ ] [check-memory-usage-python-code-per-line](https://github.com/pythonprofilers/memory_profiler)
+
+# Data Science
+  ### Data Visualization
+  
+  - [ ] [altair](https://github.com/altair-viz/altair)
+  
+  - [ ] [d3py](https://github.com/mikedewar/d3py)
   
 # Web
   
