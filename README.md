@@ -97,6 +97,9 @@
 
   - [ ] [home](https://github.com/home-assistant/home-assistant)
   
+        $ pip install homeassistant
+        $ hass --open-ui
+  
   - [x] [wechat](https://github.com/littlecodersh/ItChat)
   
         import itchat
