@@ -103,6 +103,7 @@
   
         $ pip install homeassistant
         $ hass --open-ui
+        http://192.168.0.8:8123
   
   - [x] [wechat](https://github.com/littlecodersh/ItChat)
   
