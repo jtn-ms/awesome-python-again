@@ -5,6 +5,8 @@
   - [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
   
   - [ ] [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+  
+  - [ ] [game-programmer](https://github.com/miloyip/game-programmer)
 
 ### Docker
 
