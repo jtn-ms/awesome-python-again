@@ -58,6 +58,8 @@
   - [ ] [python2android](https://github.com/kivy/python-for-android)
   
   - [ ] [shell-command-in-python](https://github.com/amoffat/sh)
+  
+  - [ ] [XML2Dict](https://github.com/mcspring/XML2Dict)
 
 ### Scraping
 
