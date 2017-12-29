@@ -1,3 +1,7 @@
+### Meta
+
+  - [ ] [how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+
 ### Under-Check
 
   - [ ] [geekcomputers](https://github.com/geekcomputers/Python)
