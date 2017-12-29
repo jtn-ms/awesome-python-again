@@ -12,7 +12,9 @@
   
   - [ ] [example-code](https://github.com/fluentpython/example-code)
   
-  - [ ] [patterns](https://github.com/faif/python-patterns)
+  - [ ] [python-patterns](https://github.com/faif/python-patterns)
+  
+  - [ ] [python-algorithms](https://github.com/keon/algorithms)
 
 ### [Binding](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages)
 
