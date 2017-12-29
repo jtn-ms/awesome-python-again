@@ -19,6 +19,8 @@
   - [ ] [python-patterns](https://github.com/faif/python-patterns)
   
   - [ ] [python-algorithms](https://github.com/keon/algorithms)
+  
+  - [ ] [Zappa](https://github.com/Miserlou/Zappa)
 
 ### [Binding](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages)
 
