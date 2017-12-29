@@ -3,6 +3,8 @@
   - [ ] [how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
   
   - [ ] [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+  
+  - [ ] [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ### Under-Check
 
