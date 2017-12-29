@@ -209,7 +209,7 @@
   - [ ] [glances:An-eye-on-your-system](https://github.com/nicolargo/glances)
   
         $ pip install glances
-        $ glance
+        $ glances
         
   - [x] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
   
