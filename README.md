@@ -7,6 +7,8 @@
   - [ ] [geekcomputers](https://github.com/geekcomputers/Python)
   
   - [ ] [example-code](https://github.com/fluentpython/example-code)
+  
+  - [ ] [patterns](https://github.com/faif/python-patterns)
 
 ### [Binding](https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages)
 
