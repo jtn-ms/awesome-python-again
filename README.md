@@ -95,6 +95,8 @@
   
 ### Auto
 
+  - [ ] [home](https://github.com/home-assistant/home-assistant)
+  
   - [x] [wechat](https://github.com/littlecodersh/ItChat)
   
         import itchat
