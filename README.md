@@ -102,6 +102,7 @@
 ### DataBase
 
   - [ ] [sqlmap:Automatic SQL injection and database takeover tool ](https://github.com/sqlmapproject/sqlmap)
+  
 ### Auto
 
   - [ ] [home](https://github.com/home-assistant/home-assistant)
@@ -246,7 +247,9 @@
         $ pip install webkit2png
         webkit2png http://www.google.com/
   
-  - [ ] [check-security-state-of-your-PC](https://github.com/chipsec/chipsec)
+  - [ ] [check-security-state-of-your-PC](https://github.com/chipsec/chipsec
+  
+  - [ ] [fabric:remote-ssh-](https://github.com/fabric/fabric)
   
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
