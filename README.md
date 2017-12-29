@@ -108,6 +108,7 @@
   - [ ] [home](https://github.com/home-assistant/home-assistant)
   
         $ pip install homeassistant
+        $ pip install xml2dict
         $ hass --open-ui
         http://192.168.0.8:8123
   
@@ -209,6 +210,7 @@
   - [ ] [glances:An-eye-on-your-system](https://github.com/nicolargo/glances)
   
         $ pip install glances
+        $ pip install pysnmp
         $ glances
         
   - [x] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
