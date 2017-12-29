@@ -74,6 +74,8 @@
       
         $ pip install --upgrade youtube-dl
   
+  - [ ] [pyspider](https://github.com/binux/pyspider)
+  
 ### Network
 
   - [ ] [httpie:interact-with-webserver-using-CLI](https://github.com/jakubroztocil/httpie)
