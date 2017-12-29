@@ -398,6 +398,8 @@
   
   - [ ] [d3-Gallery](https://github.com/d3/d3/wiki/Gallery)
   
+  - [ ] [bokeh](https://github.com/bokeh/bokeh)
+  
   - [ ] [altair](https://github.com/altair-viz/altair)
   
   - [ ] [d3py](https://github.com/mikedewar/d3py)
