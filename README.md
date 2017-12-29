@@ -467,6 +467,7 @@
 ### Overview
 
    - [ ] [off99555](https://github.com/off99555/machine-learning-curriculum)
+   
 ### NLP
 
   - [ ] [spacy](https://spacy.io/) : [src](https://github.com/explosion/spaCy) : [models](https://github.com/explosion/spacy-models/)
@@ -483,8 +484,27 @@
        * [doc2vec](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
        * [summarization](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/summarization_tutorial.ipynb)
        
-  - [ ] [newspaper](https://github.com/codelucas/newspaper)
+  - [ ] [newspaper:request+lxml+nltk+jieba](https://github.com/codelucas/newspaper)
 
+        py3$ pip install newspaper3k
+        py2$ pip install newspaper
+        from newspaper import Article
+        url = 'http://fox13now.com/2013/12/30/new-year-new-laws-obamacare-pot-guns-and-drones/'
+        article = Article(url)
+        article.download()
+        article.parse()
+        article.authors
+        article.publish_date
+        article.text
+        article.top_image
+        article.movies
+        article.nlp()
+        article.keywords
+        article.summary
+        from newspaper import fulltext
+        html = requests.get(...).text
+        text = fulltext(html)
+        
   - [ ] [TextBlob](https://github.com/sloria/TextBlob)
   
   - [ ] [translate.py](https://bitbucket.org/frank0125/biddingdocument/src/8f034d22a750c5e08b593d79df7808fcf1f030f9/processing/trans.py?at=master&fileviewer=file-view-default)
