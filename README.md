@@ -210,6 +210,9 @@
   - [ ] [howdoi:programming-grammar-check](https://github.com/gleitz/howdoi)
   
         $ pip install howdoi
+        opening vpn
+        $ howdoi dictionary insert python
+        $ howdoi network test bash
         
   - [ ] [glances:An-eye-on-your-system](https://github.com/nicolargo/glances)
   
