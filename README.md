@@ -51,12 +51,15 @@
 
 ### Scraping
 
+
   - [ ] [you-get: video,image,audio](https://github.com/soimort/you-get)
         
         $ pip install you-get
         $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
     
-  - [ ] []()
+  - [ ] [youtube-dl:video](https://github.com/rg3/youtube-dl)
+      
+        $ pip install --upgrade youtube-dl
   
 ### Network
 
@@ -72,6 +75,8 @@
         $ http example.org/file > file
         $ http --download example.org/file
         .....
+        
+  - [ ] [requests](https://github.com/requests/requests)
   
 ### Auto
 
