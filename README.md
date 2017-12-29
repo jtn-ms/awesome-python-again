@@ -51,6 +51,9 @@
 
 ### Scraping
 
+  - [ ] [](https://github.com/scrapy/scrapy)
+  
+        $ pip install scrapy
 
   - [ ] [you-get: video,image,audio](https://github.com/soimort/you-get)
         
@@ -63,7 +66,7 @@
   
 ### Network
 
-  - [ ] [httpie:CLI-WebServer-Interact](https://github.com/jakubroztocil/httpie)
+  - [ ] [httpie:interact-with-webserver-using-CLI](https://github.com/jakubroztocil/httpie)
   
         $ pip install --upgrade httpie
         $ http baidu.com
@@ -77,6 +80,8 @@
         .....
         
   - [ ] [requests](https://github.com/requests/requests)
+  
+  - [ ] [shadowsocks:bypass-firewall](https://github.com/shadowsocks/shadowsocks/tree/master)
   
 ### Auto
 
