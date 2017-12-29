@@ -48,6 +48,30 @@
   - [ ] [python2android](https://github.com/kivy/python-for-android)
   
   - [ ] [shell-command-in-python](https://github.com/amoffat/sh)
+
+### Scraping
+
+  - [ ] [you-get: video,image,audio](https://github.com/soimort/you-get)
+        
+        $ pip install you-get
+        $ you-get 'https://www.youtube.com/watch?v=jNQXAC9IVRw'
+    
+  - [ ] []()
+  
+### Network
+
+  - [ ] [httpie:CLI-WebServer-Interact](https://github.com/jakubroztocil/httpie)
+  
+        $ pip install --upgrade httpie
+        $ http baidu.com
+        submitting
+        $ http -f POST example.org hello=World
+        uploading
+        $ http example.org < file.json
+        downloading
+        $ http example.org/file > file
+        $ http --download example.org/file
+        .....
   
 ### Auto
 
