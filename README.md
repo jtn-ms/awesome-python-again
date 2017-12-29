@@ -501,6 +501,8 @@
 # Computer Vision
 ### Super Resolution
   - [ ] [srez:super-resolution-16x16to64x64-face](https://github.com/david-gpu/srez)
+  
+  - [ ] [neural-enhance](https://github.com/alexjc/neural-enhance)
 
 # Office
 ### Excel
