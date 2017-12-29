@@ -224,7 +224,9 @@
         $ pip install pysnmp
         $ glances
         
-  - [x] [thefuck:Auto-Correcting-Command](https://github.com/nicolargo/glances)
+  - [x] [thefuck:Auto-Correcting-Command](https://github.com/nvbn/thefuck)
+  
+        $ pip install thefuck
   
   - [ ] [fabric:Shell-Command-On-Multi-Servers-Same-Time](https://github.com/fabric/fabric)
   
