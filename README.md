@@ -16,6 +16,9 @@
         $ haxor-news
         haxor> hn top
         haxor> hn show 20
+        
+  - [ ] [HackerNewsAPI](https://github.com/karan/HackerNewsAPI/)     
+       
           
 ### Docker
 
