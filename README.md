@@ -13,8 +13,9 @@
   - [ ] [haxor-news](https://github.com/donnemartin/haxor-news)
   
         $ pip install haxor-news
-        $ hn top
-        $ hn show 20
+        $ haxor-news
+        haxor> hn top
+        haxor> hn show 20
           
 ### Docker
 
