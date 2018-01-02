@@ -8,6 +8,14 @@
   
   - [ ] [game-programmer](https://github.com/miloyip/game-programmer)
 
+### News
+
+  - [ ] [haxor-news](https://github.com/donnemartin/haxor-news)
+  
+        $ pip install haxor-news
+        $ hn top
+        $ hn show 20
+          
 ### Docker
 
   - [ ] [docker_practice](https://github.com/yeasy/docker_practice)
@@ -164,6 +172,8 @@
       * [](https://github.com/slackapi/python-slackclient)
       
   - [ ] [skype](https://github.com/Skype4Py/Skype4Py)
+  
+          
   
   - [ ] [chrome-db](https://github.com/MonroCoury/Forensic-Tools)
   
