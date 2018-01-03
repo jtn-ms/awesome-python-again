@@ -81,6 +81,8 @@
   
   - [ ] [shell-command-in-python](https://github.com/amoffat/sh)
   
+  - [ ] [python-dict2xml](https://github.com/delfick/python-dict2xml)
+  
   - [ ] [xmltodict](https://github.com/martinblech/xmltodict) : [XML2Dict](https://github.com/mcspring/XML2Dict)
 
 ### Scraping
