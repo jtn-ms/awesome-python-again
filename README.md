@@ -191,6 +191,8 @@
   
   - [ ] [弹幕](https://github.com/littlecodersh/danmu)
   
+  - [ ] [webbrowser](https://github.com/SeleniumHQ/selenium)
+  
 ### Data & Time
 
   - [ ] [pendulum](https://github.com/sdispater/pendulum)
