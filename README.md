@@ -120,6 +120,8 @@
   - [ ] [requests](https://github.com/requests/requests)
   
   - [ ] [shadowsocks:bypass-firewall](https://github.com/shadowsocks/shadowsocks/tree/master)
+  
+  - [ ] [fabric:remote-execution](https://github.com/fabric/fabric)
 
 ### DataBase
 
