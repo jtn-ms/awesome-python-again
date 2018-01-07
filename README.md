@@ -195,6 +195,7 @@
   
   - [ ] [webbrowser](https://github.com/SeleniumHQ/selenium)
   
+  
 ### Data & Time
 
   - [ ] [pendulum](https://github.com/sdispater/pendulum)
@@ -287,6 +288,11 @@
   - [ ] [fabric:remote-ssh-](https://github.com/fabric/fabric)
   
   - [ ] [yapf:A-formatter-for-Python-files](https://github.com/google/yapf)
+  
+  - [ ] [speedtest-cli:internet-bandwidth-testing-cmd](https://github.com/sivel/speedtest-cli)
+  
+        $ pip install speedtest-cli
+        $ speedtest-cli
   
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
