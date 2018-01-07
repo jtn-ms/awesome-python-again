@@ -286,6 +286,8 @@
   
   - [ ] [fabric:remote-ssh-](https://github.com/fabric/fabric)
   
+  - [ ] [yapf:A-formatter-for-Python-files](https://github.com/google/yapf)
+  
  ### [Python in C++](https://www.coveros.com/calling-python-code-from-c/)
  
  
